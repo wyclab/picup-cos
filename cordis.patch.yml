@@ -1,0 +1,3 @@
+- insert:
+    - id: picup-cos
+      name: '@local/picup-cos'
